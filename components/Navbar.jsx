@@ -1,4 +1,5 @@
-import Logo from "./logo"
+import Logo from "./Logo";
+
 
 const Navbar = () => {
   return (
@@ -11,4 +12,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar;
+export default Navbar
